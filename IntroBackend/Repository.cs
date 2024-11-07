@@ -15,6 +15,8 @@ namespace IntroBackend
         };
 
         public List<Brewery> GetBreweries() => breweries;
+
+        public Brewery GetBrewery(int id) => breweries.Find(r => r.Id == id);
     }
 
     public class Brewery

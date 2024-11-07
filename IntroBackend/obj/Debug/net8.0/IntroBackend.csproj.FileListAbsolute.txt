@@ -23,3 +23,4 @@
 /Users/jquinonez/Codes/Backend/IntroBackend/IntroBackend/obj/Debug/net8.0/IntroBackend.pdb
 /Users/jquinonez/Codes/Backend/IntroBackend/IntroBackend/obj/Debug/net8.0/IntroBackend.genruntimeconfig.cache
 /Users/jquinonez/Codes/Backend/IntroBackend/IntroBackend/obj/Debug/net8.0/ref/IntroBackend.dll
+/Users/jquinonez/Codes/Backend/IntroBackend/IntroBackend/obj/Debug/net8.0/IntroBackend.sourcelink.json
